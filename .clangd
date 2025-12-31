@@ -1,0 +1,4 @@
+CompilerFlags:
+  Add:
+    -std=GNU99
+    -D_GNU_SOURCE
